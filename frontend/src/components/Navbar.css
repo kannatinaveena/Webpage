@@ -1,0 +1,11 @@
+/* Navbar.css */
+.navbar {
+    background-color: #007bff;
+    padding: 15px;
+  }
+  
+  .navbar a {
+    color: white !important;
+    font-weight: bold;
+  }
+  

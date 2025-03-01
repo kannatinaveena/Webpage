@@ -1,0 +1,19 @@
+/* Ensure the entire page has a blue background */
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #007bff; /* Blue background */
+    color: white;
+  }
+  
+  /* Make sure the hero section takes full viewport height */
+  .hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    text-align: center;
+  }
+  
