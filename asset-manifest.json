@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kannatinaveena/Webpage/static/css/main.aeea4322.css",
-    "main.js": "/kannatinaveena/Webpage/static/js/main.cf6d138b.js",
-    "index.html": "/kannatinaveena/Webpage/index.html",
-    "main.aeea4322.css.map": "/kannatinaveena/Webpage/static/css/main.aeea4322.css.map",
-    "main.cf6d138b.js.map": "/kannatinaveena/Webpage/static/js/main.cf6d138b.js.map"
+    "main.css": "/Webpage/static/css/main.aeea4322.css",
+    "main.js": "/Webpage/static/js/main.cf6d138b.js",
+    "index.html": "/Webpage/index.html",
+    "main.aeea4322.css.map": "/Webpage/static/css/main.aeea4322.css.map",
+    "main.cf6d138b.js.map": "/Webpage/static/js/main.cf6d138b.js.map"
   },
   "entrypoints": [
     "static/css/main.aeea4322.css",
